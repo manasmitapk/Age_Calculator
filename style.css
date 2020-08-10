@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+	
+	font: 150 30px " New Roman", Times, serif;
+    color:rgb(15, 15, 15);
+    text-align:center;
+}
+html {
+	background: #229ad7;
+  background-image: linear-gradient(to bottom, rgb(253, 250, 52) 0%, rgba(202, 2, 2, 0.849) 100%);
+  background-attachment: fixed;
+}
+h1{
+    color: #000000;
+    
+}
+.btn{
+    background-color: rgb(255, 144, 41);
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+.btn:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
